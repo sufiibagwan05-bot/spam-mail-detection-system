@@ -8,7 +8,7 @@ ML-powered email spam detection with interactive web interface
 
 ## 🌐 Live Demo
 
-**Try it now:** [https://spamshield-project.streamlit.app/](https://spamshield-project.streamlit.app/)
+**Try it now:** [https://spam-mail-detection-system-hwpqecypegq4getrgitue9.streamlit.app/](https://spam-mail-detection-system-hwpqecypegq4getrgitue9.streamlit.app/)
 
 No installation required - test the system directly in your browser!
 
