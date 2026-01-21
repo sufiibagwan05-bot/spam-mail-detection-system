@@ -15,7 +15,7 @@ No installation required - test the system directly in your browser!
 ## 🚀 Quick Start
 
 ```bash
-git clone https://github.com/sufiibagwan05-bot/SpamShield
+git clone https://github.com/sufiibagwan05-bot/spam-mail-detection-system.git
 cd spam-email-detection
 pip install -r requirements.txt
 streamlit run app.py
@@ -117,7 +117,7 @@ MIT License
 ## 👤 Author
 
 **Sufiyan Bagwan**
-- GitHub: [sufiibagwan05](https://github.com/sufiibagwan05-bot/SpamShield)
+- GitHub: [sufiibagwan05](https://github.com/sufiibagwan05-bot/spam-mail-detection-system.git)
 - Email: suffibagwan05@gmail.com
 
 ---
